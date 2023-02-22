@@ -3,10 +3,14 @@
 
 ## Notes
 
+Youtube demo (clickable image):  
+[![demo](https://img.youtube.com/vi/_ejd96j9RGc/0.jpg)](https://www.youtube.com/watch?v=_ejd96j9RGc)  
+
+
 By reqs: "Optimal part of the solution should be programmed using C++, following best practices.". I believe that simple interactions, like variable binding, triggers and UI (anything, that doesn't include complex logic or math) can be done and should be done in Blueprints, as it feels very native to Unreal, so I decided not to use C++ code at all. 
 
 
-Task
+## Task
 Using Third Person Template, your task is to implement three features:
 
 1. HUD containing visual indicators of ammunition left, character condition and life.
