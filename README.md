@@ -1,6 +1,10 @@
 # Unreal Engine UI Programmer Recruitment Task
 ## HUD, Pause Menu and Inventory
 
+## Notes
+
+By reqs: "Optimal part of the solution should be programmed using C++, following best practices.". I believe that simple interactions, like variable binding, triggers and UI (anything, that doesn't include complex logic or math) can be done and should be done in Blueprints, as it feels very native to Unreal, so I decided not to use C++ code at all. 
+
 
 Task
 Using Third Person Template, your task is to implement three features:
